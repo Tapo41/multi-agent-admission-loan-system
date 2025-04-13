@@ -3,17 +3,7 @@
 An AI-powered multi-role helpdesk platform built with **Streamlit**, **LangChain**, and **OCR (Tesseract)** to automate and streamline student admissions. The system supports **Document Verification**, **Student Shortlisting**, **Loan Evaluation**, and **Admission FAQ support** with agent-based reasoning.
 
 ---
-<p align="center">
-  <img src="C:/Users/Tapojita Kar/Pictures/Screenshots/Screenshot 2025-04-13 195850.png" />
-  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 162502.png" />
-  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 162324.png" />
-  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 163547.png" />
-  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 163625.png" />
-  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 174914.png" />
-  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 175036.png" />
-  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 180322.png" />
-  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 184137.png" />
-</p> change this to different form with exact paths
+![Screenshot]("C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 162502.png")
 
 
 
