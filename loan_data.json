@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What conditions must be met to approve a student loan?",
+        "answer": "The student must be shortlisted, their annual income should be below a certain threshold, and the university must have sufficient budget for the requested loan amount."
+    },
+    {
+        "question": "Can a student with a high annual income get a loan?",
+        "answer": "No, students with annual income above the specified threshold are not eligible for a loan."
+    },
+    {
+        "question": "Is shortlisting mandatory for loan approval?",
+        "answer": "Yes, only shortlisted students are eligible for student loans."
+    },
+    {
+        "question": "What happens if the requested loan amount exceeds the university budget?",
+        "answer": "If the loan amount exceeds the remaining university budget, the loan cannot be approved."
+    },
+    {
+        "question": "Can students reapply for a loan if initially rejected?",
+        "answer": "Yes, students can reapply if their circumstances change, such as reduced income or a lower loan request."
+    },
+    {
+        "question": "Is there a fixed university budget for student loans?",
+        "answer": "Yes, the university has a predefined total budget for loans which is updated periodically."
+    },
+    {
+        "question": "How is the annual income of a student verified?",
+        "answer": "The student provides their income details as input during the loan application process."
+    }
+]
