@@ -3,6 +3,17 @@
 An AI-powered multi-role helpdesk platform built with **Streamlit**, **LangChain**, and **OCR (Tesseract)** to automate and streamline student admissions. The system supports **Document Verification**, **Student Shortlisting**, **Loan Evaluation**, and **Admission FAQ support** with agent-based reasoning.
 
 ---
+<p align="center">
+  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 195850.png" width="600"/>
+  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 162502.png" width="600"/>
+  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 162324.png" width="600"/>
+  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 163547.png" width="600"/>
+  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 163625.png" width="600"/>
+  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 174914.png" width="600"/>
+  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 175036.png" width="600"/>
+  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 180322.png" width="600"/>
+  <img src="C:\Users\Tapojita Kar\Pictures\Screenshots\Screenshot 2025-04-13 184137.png" width="600"/>
+</p>
 
 ## 🚀 Features
 
