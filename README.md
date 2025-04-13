@@ -1,5 +1,3 @@
-# multi-agent-admission-loan-system
-Multi-Agent Admission &amp; Loan Processing System is a smart, role-based application built with Streamlit, powered by LangChain agents, OCR, and LLMs.
 # 🎓 Student Admission Helpdesk System
 
 An AI-powered multi-role helpdesk platform built with **Streamlit**, **LangChain**, and **OCR (Tesseract)** to automate and streamline student admissions. The system supports **Document Verification**, **Student Shortlisting**, **Loan Evaluation**, and **Admission FAQ support** with agent-based reasoning.
