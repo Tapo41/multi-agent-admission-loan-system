@@ -4,16 +4,17 @@ An AI-powered multi-role helpdesk platform built with **Streamlit**, **LangChain
 
 ---
 <p align="center">
-  <img src="screenshots/Screenshot-2025-04-13-195850.png" width="600"/>
-  <img src="screenshots/Screenshot-2025-04-13-162502.png" width="600"/>
-  <img src="screenshots/Screenshot-2025-04-13-162324.png" width="600"/>
-  <img src="screenshots/Screenshot-2025-04-13-163547.png" width="600"/>
-  <img src="screenshots/Screenshot-2025-04-13-163625.png" width="600"/>
-  <img src="screenshots/Screenshot-2025-04-13-174914.png" width="600"/>
-  <img src="screenshots/Screenshot-2025-04-13-175036.png" width="600"/>
-  <img src="screenshots/Screenshot-2025-04-13-180322.png" width="600"/>
-  <img src="screenshots/Screenshot-2025-04-13-184137.png" width="600"/>
+  <img src="file:///C:/Users/Tapojita%20Kar/Pictures/Screenshots/Screenshot%202025-04-13%20195850.png" width="600"/>
+  <img src="file:///C:/Users/Tapojita%20Kar/Pictures/Screenshots/Screenshot%202025-04-13%20162502.png" width="600"/>
+  <img src="file:///C:/Users/Tapojita%20Kar/Pictures/Screenshots/Screenshot%202025-04-13%20162324.png" width="600"/>
+  <img src="file:///C:/Users/Tapojita%20Kar/Pictures/Screenshots/Screenshot%202025-04-13%20163547.png" width="600"/>
+  <img src="file:///C:/Users/Tapojita%20Kar/Pictures/Screenshots/Screenshot%202025-04-13%20163625.png" width="600"/>
+  <img src="file:///C:/Users/Tapojita%20Kar/Pictures/Screenshots/Screenshot%202025-04-13%20174914.png" width="600"/>
+  <img src="file:///C:/Users/Tapojita%20Kar/Pictures/Screenshots/Screenshot%202025-04-13%20175036.png" width="600"/>
+  <img src="file:///C:/Users/Tapojita%20Kar/Pictures/Screenshots/Screenshot%202025-04-13%20180322.png" width="600"/>
+  <img src="file:///C:/Users/Tapojita%20Kar/Pictures/Screenshots/Screenshot%202025-04-13%20184137.png" width="600"/>
 </p>
+
 
 
 ## 🚀 Features
